@@ -1,10 +1,10 @@
 === Speed Contact Bar ===
-Contributors: kybernetikservices, Hinjiriyo
+Contributors: kybernetikservices,wpcooltools, Hinjiriyo
 Donate link: https://www.paypal.com/donate?hosted_button_id=NSEQX73VHXKS8
 Tags: address, cell phone, contact, email, facebook, fax, flickr, whatsapp, imdb, instagram, linkedin, phone, pinterest, position, responsive, skype, slideshare, snapchat, social media, soundcloud, telegram, tumblr, twitter, X, vimeo, xing, yelp, youtube
 Requires at least: 3.5
 Requires PHP: 5.2
-Tested up to: 6.6
+Tested up to: 6.9
 Stable tag: 6.13.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -175,8 +175,8 @@ The most likely reason is the **WordPress Admin Bar fixed on top of the page**. 
 
 You have two possibilities to see the bar:
 
-1. Go to your user profile in the backend a deactivate the checkbox at "Show admin bar"
-2. Use another browser, as unlogged visitor
+1. Go to your user profile in the backend and deactivate the checkbox at "Show admin bar"
+2. Use another browser, as a not logged in user
 
 = How to add and re-order list entries by using hooks? =
 Repeatedly users ask for special things to be included in the contact bar. Of course, if you know how to code with PHP, HTML and CSS you can change the plugin's code and insert whatever you want.
@@ -342,7 +342,7 @@ Please write your request in the plugin's [support forum at wordpress.org](http:
 * optimized logos and replaced png with svg (vector) files (modern WhatsApp, Snapchat, Soundcloud)
 * fixed wrong ration with IMDb logo and replaced png with SVG
 * fixed wrong ration with Yelp logo and replaced png with SVG
-* tested with WordPress 6.6
+* tested with WordPress 6.6-6.7
 
 = 6.12.1.1 =
 * hotfix white screen
